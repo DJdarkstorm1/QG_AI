@@ -1,0 +1,1 @@
+This is a repository for QG-AI Winter Training Camp.
