@@ -1,0 +1,5 @@
+grades=(85,92,78,90,62,88)
+print("(最高分 最低分 平均分)")
+avra=sum(grades)/len(grades)
+tup_grades=(max(grades),min(grades),avra)
+print(tup_grades)
