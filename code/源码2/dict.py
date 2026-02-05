@@ -43,8 +43,10 @@ print("dict2",dict2)
 tup=("Name","Age","Class")
 tup_value=(1,2,3)
 print(tup)
-dict3=dict1.fromkeys(tup,0)
+dict3=dict1.fromkeys(tup,"warning")
 print(dict3)
+dict3["name"]="Tom"
+print("dict3:",dict3)
 
 # 查找键的值
 print(dict1.get("name"))
