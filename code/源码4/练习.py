@@ -1,6 +1,3 @@
-from networkx.algorithms.distance_measures import radius
-
-
 class Shape:
     shape_counter = 0
 
