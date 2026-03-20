@@ -1,3 +1,4 @@
 This is a repository for QG-AI Winter Training Camp.
 
-jupyter有BUG，还没处理，暂时不用
+春季训练营的文件在：**SpringCamp文件夹**
+
